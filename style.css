@@ -1,0 +1,27 @@
+.G1 {
+    border: 1px solid black;
+    width: 100%;
+    height: 250px;
+}
+.bod {
+    margin-left: 30px;
+}
+.blog {
+    width: 90%;
+    height: 80px;
+    margin-left: 30px;
+    margin-top: 5px; 
+}
+.read {
+    position: absolute;
+    color: black;
+    margin-left: 30px;
+    font-size: 20px ;
+}
+.dog {
+    height: 50%;
+    width: 50%;
+
+}.fon {
+    font-family:sans-serif;
+}
